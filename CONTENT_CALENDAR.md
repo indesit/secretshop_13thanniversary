@@ -1,15 +1,18 @@
-cat > CONTENT_CALENDAR.md <<'EOF'
-# Content Calendar - 13th Anniversary Week
+# Content Calendar - Secret Shop 13th Anniversary Week
 
 ## 25.04 - Saturday
 
-Theme: старт святкового тижня
+### Theme
+Старт святкового тижня.
 
-- Email/Viber/SMS
-- 1-3 stories
-- announcement bar на сайті
+### Must publish
 
-Message:
+- Email / Viber / SMS.
+- Announcement bar або hero banner на сайті.
+- 1-3 Instagram stories.
+- Скрипт продавцям у всі магазини.
+
+### Message
 
 Secret Shop святкує 13 років. Протягом святкового тижня даруємо подарунки до покупок.
 
@@ -17,14 +20,16 @@ Secret Shop святкує 13 років. Протягом святкового 
 
 ## 26.04 - Sunday
 
-Theme: атмосфера
+### Theme
+Атмосфера в магазинах.
 
-- stories з магазинів
-- подарунки
-- смаколики
-- кульки
+### Content
 
-Message:
+- Stories з магазинів.
+- Кульки, смаколики, подарунки.
+- Живі кадри команди / вітрин.
+
+### Message
 
 Святкова атмосфера вже в Secret Shop.
 
@@ -32,13 +37,16 @@ Message:
 
 ## 27.04 - Monday
 
-Theme: подарунки
+### Theme
+Подарунки.
 
-- post або story set
-- показати подарунки
-- нагадати про тиждень
+### Content
 
-Message:
+- Story set про подарунки.
+- Уточнення умов, якщо операційно підтверджені.
+- Instagram post, якщо є адаптований visual.
+
+### Message
 
 Подарунки до покупок протягом святкового тижня.
 
@@ -46,26 +54,34 @@ Message:
 
 ## 28.04 - Tuesday
 
-Theme: історія
-
-- коротко про 13 років бренду
-- архів / магазини / команда
-
-Message:
-
+### Theme
 13 років разом з вами.
+
+### Content
+
+- Коротка історична подача.
+- Подяка клієнтам.
+- Архів / магазини / команда, якщо є матеріали.
+
+### Message
+
+13 років жіночності, краси і довіри.
 
 ---
 
 ## 29.04 - Wednesday
 
-Theme: добірки
+### Theme
+Добірки товарів.
 
-- купальники
-- білизна
-- homewear
+### Content
 
-Message:
+- Купальники.
+- Білизна.
+- Homewear.
+- Подарункові ідеї.
+
+### Message
 
 Обирайте красу до святкового настрою.
 
@@ -73,25 +89,33 @@ Message:
 
 ## 30.04 - Thursday
 
-Theme: reminder
+### Theme
+Reminder.
 
-- друга розсилка або коротке повідомлення
-- stories
+### Content
 
-Message:
+- Друга розсилка або коротке повідомлення.
+- Stories-нагадування.
+- Фокус на тому, що подарунки ще діють.
 
-Святковий тиждень триває.
+### Message
+
+Святковий тиждень Secret Shop триває.
 
 ---
 
 ## 01.05 - Friday
 
-Theme: final days
+### Theme
+Final days.
 
-- last call stories
-- акцент на обмеженості подарунків
+### Content
 
-Message:
+- Last-call stories.
+- Акцент на обмеженості подарунків.
+- Фото / відео з магазинів.
+
+### Message
 
 Ще встигаєте забрати свій подарунок.
 
@@ -99,12 +123,15 @@ Message:
 
 ## 02.05 - Saturday
 
-Theme: завершення
+### Theme
+Завершення.
 
-- final call
-- подяка
+### Content
 
-Message:
+- Final call.
+- Подяка клієнтам.
+- Фінальні stories.
+
+### Message
 
 Останній день святкового тижня Secret Shop.
-EOF
